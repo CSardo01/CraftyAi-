@@ -7,15 +7,16 @@ document.addEventListener('DOMContentLoaded', () => {
     const closeOverlay = document.getElementById('close-overlay');
     const prevImage = document.getElementById('prev-image');
     const nextImage = document.getElementById('next-image');
+
     let currentCentralImages = [];
     let currentImageIndex = 0;
 
-    // Fetch the JSON data from the new location
-    fetch('/content/categories.json')
+    // Fetch the JSON data
+    fetch('gallery-data.json')
         .then(response => response.json())
         .then(data => {
             // Generate the gallery structure
-            data.forEach(category => {
+            data.categories.forEach(category => {
                 const section = document.createElement('section');
                 section.id = category.name.toLowerCase().replace(/\s+/g, '-');
                 section.className = 'section category';
@@ -79,8 +80,8 @@ document.addEventListener('DOMContentLoaded', () => {
 
     function showOverlay(image) {
         overlayImage.src = image.src;
-        overlayTitle.textContent = image.title || '';
-        overlayDescription.textContent = image.description || '';
+        overlayTitle.textContent = image.title;
+        overlayDescription.textContent = image.description;
         overlay.style.display = 'flex';
         currentImageIndex = currentCentralImages.findIndex(img => img.src === image.src);
     }
