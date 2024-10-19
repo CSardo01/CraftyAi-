@@ -1,0 +1,448 @@
+{
+  "categories": [
+    {
+      "name": "sami",
+      "bentoGrids": [
+        {
+          "layout": "alternate-1",
+          "images": [
+            {
+              "src": "images/sami_images/sami1_bento/sami1_central.png",
+              "alt": "a man in modern sami clothing",
+              "type": "central",
+              "title": "Sami One",
+              "description": "The mesmerizing Northern Lights dancing across the night sky, painting it with vibrant colors."
+            },
+            {
+              "src": "images/sami_images/sami1_bento/sami1_sec1.jpg",
+              "alt": "a man in traditional sami dress",
+              "type": "secondary"
+            },
+            {
+              "src": "images/sami_images/sami1_bento/sami1_sec1.jpg",
+              "alt": "a man in traditional sami dress",
+              "type": "secondary"
+            },
+            {
+              "src": "images/sami_images/sami1_bento/sami1_sec1.jpg",
+              "alt": "a man in traditional sami dress",
+              "type": "secondary"
+            },
+            {
+              "src": "images/sami_images/sami1_bento/sami1_sec1.jpg",
+              "alt": "a man in traditional sami dress",
+              "type": "secondary"
+            }
+          ]
+        },
+        {
+          "layout": "alternate-1",
+          "images": [
+            {
+              "src": "images/sami_images/sami2_bento/sami2_central.png",
+              "alt": "a man in modern sami clothing",
+              "type": "central",
+              "title": "Sami Two",
+              "description": "The mesmerizing Northern Lights dancing across the night sky, painting it with vibrant colors."
+            },
+            {
+              "src": "images/sami_images/sami2_bento/sami2_sec1.jpg",
+              "alt": "a man in traditional sami dress",
+              "type": "secondary"
+            },
+            {
+              "src": "images/sami_images/sami2_bento/sami2_sec1.jpg",
+              "alt": "a man in traditional sami dress",
+              "type": "secondary"
+            },
+            {
+              "src": "images/sami_images/sami2_bento/sami2_sec1.jpg",
+              "alt": "a man in traditional sami dress",
+              "type": "secondary"
+            },
+            {
+              "src": "images/sami_images/sami2_bento/sami2_sec1.jpg",
+              "alt": "a man in traditional sami dress",
+              "type": "secondary"
+            },
+            {
+              "src": "images/sami_images/sami2_bento/sami2_sec1.jpg",
+              "alt": "a man in traditional sami dress",
+              "type": "secondary"
+            }
+          ]
+        },
+        {
+          "layout": "alternate-1",
+          "images": [
+            {
+              "src": "images/sami_images/sami2_bento/sami2_central.png",
+              "alt": "a man in modern sami clothing",
+              "type": "central",
+              "title": "Sami Two",
+              "description": "The mesmerizing Northern Lights dancing across the night sky, painting it with vibrant colors."
+            },
+            {
+              "src": "images/sami_images/sami2_bento/sami2_sec1.jpg",
+              "alt": "a man in traditional sami dress",
+              "type": "secondary"
+            },
+            {
+              "src": "images/sami_images/sami2_bento/sami2_sec1.jpg",
+              "alt": "a man in traditional sami dress",
+              "type": "secondary"
+            },
+            {
+              "src": "images/sami_images/sami2_bento/sami2_sec1.jpg",
+              "alt": "a man in traditional sami dress",
+              "type": "secondary"
+            },
+            {
+              "src": "images/sami_images/sami2_bento/sami2_sec1.jpg",
+              "alt": "a man in traditional sami dress",
+              "type": "secondary"
+            },
+            {
+              "src": "images/sami_images/sami2_bento/sami2_sec1.jpg",
+              "alt": "a man in traditional sami dress",
+              "type": "secondary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "sami",
+      "bentoGrids": [
+        {
+          "layout": "alternate-1",
+          "images": [
+            {
+              "src": "images/sami_images/sami1_bento/sami1_central.png",
+              "alt": "a man in modern sami clothing",
+              "type": "central",
+              "title": "Sami One",
+              "description": "The mesmerizing Northern Lights dancing across the night sky, painting it with vibrant colors."
+            },
+            {
+              "src": "images/sami_images/sami1_bento/sami1_sec1.jpg",
+              "alt": "a man in traditional sami dress",
+              "type": "secondary"
+            },
+            {
+              "src": "images/sami_images/sami1_bento/sami1_sec1.jpg",
+              "alt": "a man in traditional sami dress",
+              "type": "secondary"
+            },
+            {
+              "src": "images/sami_images/sami1_bento/sami1_sec1.jpg",
+              "alt": "a man in traditional sami dress",
+              "type": "secondary"
+            },
+            {
+              "src": "images/sami_images/sami1_bento/sami1_sec1.jpg",
+              "alt": "a man in traditional sami dress",
+              "type": "secondary"
+            }
+          ]
+        },
+        {
+          "layout": "alternate-1",
+          "images": [
+            {
+              "src": "images/sami_images/sami2_bento/sami2_central.png",
+              "alt": "a man in modern sami clothing",
+              "type": "central",
+              "title": "Sami Two",
+              "description": "The mesmerizing Northern Lights dancing across the night sky, painting it with vibrant colors."
+            },
+            {
+              "src": "images/sami_images/sami2_bento/sami2_sec1.jpg",
+              "alt": "a man in traditional sami dress",
+              "type": "secondary"
+            },
+            {
+              "src": "images/sami_images/sami2_bento/sami2_sec1.jpg",
+              "alt": "a man in traditional sami dress",
+              "type": "secondary"
+            },
+            {
+              "src": "images/sami_images/sami2_bento/sami2_sec1.jpg",
+              "alt": "a man in traditional sami dress",
+              "type": "secondary"
+            },
+            {
+              "src": "images/sami_images/sami2_bento/sami2_sec1.jpg",
+              "alt": "a man in traditional sami dress",
+              "type": "secondary"
+            },
+            {
+              "src": "images/sami_images/sami2_bento/sami2_sec1.jpg",
+              "alt": "a man in traditional sami dress",
+              "type": "secondary"
+            }
+          ]
+        },
+        {
+          "layout": "alternate-1",
+          "images": [
+            {
+              "src": "images/sami_images/sami2_bento/sami2_central.png",
+              "alt": "a man in modern sami clothing",
+              "type": "central",
+              "title": "Sami Two",
+              "description": "The mesmerizing Northern Lights dancing across the night sky, painting it with vibrant colors."
+            },
+            {
+              "src": "images/sami_images/sami2_bento/sami2_sec1.jpg",
+              "alt": "a man in traditional sami dress",
+              "type": "secondary"
+            },
+            {
+              "src": "images/sami_images/sami2_bento/sami2_sec1.jpg",
+              "alt": "a man in traditional sami dress",
+              "type": "secondary"
+            },
+            {
+              "src": "images/sami_images/sami2_bento/sami2_sec1.jpg",
+              "alt": "a man in traditional sami dress",
+              "type": "secondary"
+            },
+            {
+              "src": "images/sami_images/sami2_bento/sami2_sec1.jpg",
+              "alt": "a man in traditional sami dress",
+              "type": "secondary"
+            },
+            {
+              "src": "images/sami_images/sami2_bento/sami2_sec1.jpg",
+              "alt": "a man in traditional sami dress",
+              "type": "secondary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "sami",
+      "bentoGrids": [
+        {
+          "layout": "alternate-1",
+          "images": [
+            {
+              "src": "images/sami_images/sami1_bento/sami1_central.png",
+              "alt": "a man in modern sami clothing",
+              "type": "central",
+              "title": "Sami One",
+              "description": "The mesmerizing Northern Lights dancing across the night sky, painting it with vibrant colors."
+            },
+            {
+              "src": "images/sami_images/sami1_bento/sami1_sec1.jpg",
+              "alt": "a man in traditional sami dress",
+              "type": "secondary"
+            },
+            {
+              "src": "images/sami_images/sami1_bento/sami1_sec1.jpg",
+              "alt": "a man in traditional sami dress",
+              "type": "secondary"
+            },
+            {
+              "src": "images/sami_images/sami1_bento/sami1_sec1.jpg",
+              "alt": "a man in traditional sami dress",
+              "type": "secondary"
+            },
+            {
+              "src": "images/sami_images/sami1_bento/sami1_sec1.jpg",
+              "alt": "a man in traditional sami dress",
+              "type": "secondary"
+            }
+          ]
+        },
+        {
+          "layout": "alternate-1",
+          "images": [
+            {
+              "src": "images/sami_images/sami2_bento/sami2_central.png",
+              "alt": "a man in modern sami clothing",
+              "type": "central",
+              "title": "Sami Two",
+              "description": "The mesmerizing Northern Lights dancing across the night sky, painting it with vibrant colors."
+            },
+            {
+              "src": "images/sami_images/sami2_bento/sami2_sec1.jpg",
+              "alt": "a man in traditional sami dress",
+              "type": "secondary"
+            },
+            {
+              "src": "images/sami_images/sami2_bento/sami2_sec1.jpg",
+              "alt": "a man in traditional sami dress",
+              "type": "secondary"
+            },
+            {
+              "src": "images/sami_images/sami2_bento/sami2_sec1.jpg",
+              "alt": "a man in traditional sami dress",
+              "type": "secondary"
+            },
+            {
+              "src": "images/sami_images/sami2_bento/sami2_sec1.jpg",
+              "alt": "a man in traditional sami dress",
+              "type": "secondary"
+            },
+            {
+              "src": "images/sami_images/sami2_bento/sami2_sec1.jpg",
+              "alt": "a man in traditional sami dress",
+              "type": "secondary"
+            }
+          ]
+        },
+        {
+          "layout": "alternate-1",
+          "images": [
+            {
+              "src": "images/sami_images/sami2_bento/sami2_central.png",
+              "alt": "a man in modern sami clothing",
+              "type": "central",
+              "title": "Sami Two",
+              "description": "The mesmerizing Northern Lights dancing across the night sky, painting it with vibrant colors."
+            },
+            {
+              "src": "images/sami_images/sami2_bento/sami2_sec1.jpg",
+              "alt": "a man in traditional sami dress",
+              "type": "secondary"
+            },
+            {
+              "src": "images/sami_images/sami2_bento/sami2_sec1.jpg",
+              "alt": "a man in traditional sami dress",
+              "type": "secondary"
+            },
+            {
+              "src": "images/sami_images/sami2_bento/sami2_sec1.jpg",
+              "alt": "a man in traditional sami dress",
+              "type": "secondary"
+            },
+            {
+              "src": "images/sami_images/sami2_bento/sami2_sec1.jpg",
+              "alt": "a man in traditional sami dress",
+              "type": "secondary"
+            },
+            {
+              "src": "images/sami_images/sami2_bento/sami2_sec1.jpg",
+              "alt": "a man in traditional sami dress",
+              "type": "secondary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "sami",
+      "bentoGrids": [
+        {
+          "layout": "alternate-1",
+          "images": [
+            {
+              "src": "images/sami_images/sami1_bento/sami1_central.png",
+              "alt": "a man in modern sami clothing",
+              "type": "central",
+              "title": "Sami One",
+              "description": "The mesmerizing Northern Lights dancing across the night sky, painting it with vibrant colors."
+            },
+            {
+              "src": "images/sami_images/sami1_bento/sami1_sec1.jpg",
+              "alt": "a man in traditional sami dress",
+              "type": "secondary"
+            },
+            {
+              "src": "images/sami_images/sami1_bento/sami1_sec1.jpg",
+              "alt": "a man in traditional sami dress",
+              "type": "secondary"
+            },
+            {
+              "src": "images/sami_images/sami1_bento/sami1_sec1.jpg",
+              "alt": "a man in traditional sami dress",
+              "type": "secondary"
+            },
+            {
+              "src": "images/sami_images/sami1_bento/sami1_sec1.jpg",
+              "alt": "a man in traditional sami dress",
+              "type": "secondary"
+            }
+          ]
+        },
+        {
+          "layout": "alternate-1",
+          "images": [
+            {
+              "src": "images/sami_images/sami2_bento/sami2_central.png",
+              "alt": "a man in modern sami clothing",
+              "type": "central",
+              "title": "Sami Two",
+              "description": "The mesmerizing Northern Lights dancing across the night sky, painting it with vibrant colors."
+            },
+            {
+              "src": "images/sami_images/sami2_bento/sami2_sec1.jpg",
+              "alt": "a man in traditional sami dress",
+              "type": "secondary"
+            },
+            {
+              "src": "images/sami_images/sami2_bento/sami2_sec1.jpg",
+              "alt": "a man in traditional sami dress",
+              "type": "secondary"
+            },
+            {
+              "src": "images/sami_images/sami2_bento/sami2_sec1.jpg",
+              "alt": "a man in traditional sami dress",
+              "type": "secondary"
+            },
+            {
+              "src": "images/sami_images/sami2_bento/sami2_sec1.jpg",
+              "alt": "a man in traditional sami dress",
+              "type": "secondary"
+            },
+            {
+              "src": "images/sami_images/sami2_bento/sami2_sec1.jpg",
+              "alt": "a man in traditional sami dress",
+              "type": "secondary"
+            }
+          ]
+        },
+        {
+          "layout": "alternate-1",
+          "images": [
+            {
+              "src": "images/sami_images/sami2_bento/sami2_central.png",
+              "alt": "a man in modern sami clothing",
+              "type": "central",
+              "title": "Sami Two",
+              "description": "The mesmerizing Northern Lights dancing across the night sky, painting it with vibrant colors."
+            },
+            {
+              "src": "images/sami_images/sami2_bento/sami2_sec1.jpg",
+              "alt": "a man in traditional sami dress",
+              "type": "secondary"
+            },
+            {
+              "src": "images/sami_images/sami2_bento/sami2_sec1.jpg",
+              "alt": "a man in traditional sami dress",
+              "type": "secondary"
+            },
+            {
+              "src": "images/sami_images/sami2_bento/sami2_sec1.jpg",
+              "alt": "a man in traditional sami dress",
+              "type": "secondary"
+            },
+            {
+              "src": "images/sami_images/sami2_bento/sami2_sec1.jpg",
+              "alt": "a man in traditional sami dress",
+              "type": "secondary"
+            },
+            {
+              "src": "images/sami_images/sami2_bento/sami2_sec1.jpg",
+              "alt": "a man in traditional sami dress",
+              "type": "secondary"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
